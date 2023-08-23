@@ -9,4 +9,8 @@ git branch branch_name to create new breanch
 git remote -v display remote name
 git checkout neme_of_branch to switch the branch
 git branch -d name_of_branch to delete the branch
+<<<<<<< HEAD
 git checkout -b name_of_branch ot create and switch the branch at the same time
+=======
+git checkout -b name_of_branch ot create and switch the branch at the same time 
+>>>>>>> update_script
